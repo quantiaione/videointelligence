@@ -1,2 +1,2 @@
 
-Video Intelligence
+Video Intelligence Demo
